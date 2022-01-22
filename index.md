@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/semantic-ui/2.2.7/semantic.min.css">
+<title>Price Check</title>
+<link href="/static/css/main.9c9e2e78.css" rel="stylesheet"></head>
 
-You can use the [editor on GitHub](https://github.com/chjit/testprice/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chjit/testprice/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<body>
+<div class="ui main-body text container">
+<div class="ui segment">
+<div class="ui center aligned container">
+<h2 class="ui header">Welcome to Price Check</h2>
+<div class="ui inverted black segment">
+<div id="price"></div></div></div>
+<div class="ui segment"><p>I made this as Github pages demo of:
+</p><ul>
+<li>Static content</li>
+<li>React apps</li>
+<li>Awesomness</li>
+</ul>
+</div></div>
+<div class="ui center aligned footer container">
+<p>Made with &hearts; by <a href="">CS</a></p></div></div>
+<script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8=" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/semantic-ui/2.2.7/semantic.min.js"></script>
+<script type="text/javascript" src="/static/js/main.6f499e24.js"></script>
+</body>
+</html>
